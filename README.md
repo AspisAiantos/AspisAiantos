@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AspisAiantos
+
 Building something fun
 
 <!---
